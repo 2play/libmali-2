@@ -1,5 +1,6 @@
 #ifndef __khrplatform_h_
 #define __khrplatform_h_
+#define MESA_EGL_NO_X11_HEADERS
 
 /*
 ** Copyright (c) 2008-2018 The Khronos Group Inc.
